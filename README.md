@@ -33,8 +33,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i= cs,rider,unity,git,github,figma,notion,blender,sublime" />
+    <img src="https://skillicons.dev/icons?i=cs,rider,unity,git,github,figma,notion,blender,sublime" />
   </a>
 </p>
+
 
 
