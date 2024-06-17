@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Я начинающий Unity разработчик. Всё началось с курса сё началось с курса от <a href="https://gamedev-academy.com"><img src="https://img.shields.io/badge/GameDev%20Academy-0077B5?style=for-the-badge&logo=Academy&logoColor=white" alt="GameDev Academy"></a>, где я прошел курс по C# и познакомился с Unity.
+<p align="left">Я начинающий Unity разработчик. Всё началось с великолепного курса от <a href="https://gamedev-academy.com"><img src="https://img.shields.io/badge/GameDev%20Academy-0077B5?style=for-the-badge&logo=Academy&logoColor=white" alt="GameDev Academy"></a>, где я изучил C# и познакомился с Unity.
 
 ###
 
