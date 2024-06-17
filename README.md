@@ -31,6 +31,6 @@
 
 <h3 align=“left”>🛠 Технологии:</h3>
 
-<div align=“left”> <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg” height=“40” alt=“unity logo” /> <img width=“12” /> <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg” height=“40” alt=“csharp logo” /> <img width=“12” /> <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg” height=“40” alt=“figma logo” /> <img width=“12” /> <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg” height=“40” alt=“blender logo” /> <img width=“12” /> <!-- Copilot and Rider do not have official icons in devicon, so I used placeholders --> <img src=“https://via.placeholder.com/40?text=Copilot” height=“40” alt=“copilot logo” /> <img width=“12” /> <img src=“https://via.placeholder.com/40?text=Rider” height=“40” alt=“rider logo” /> </div>
+[(https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
