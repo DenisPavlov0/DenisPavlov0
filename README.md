@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://github.com/DenisPavlov0/DenisPavlov0/blob/main/epU.gif"/>
+  <img height="280" width="500" src="https://github.com/DenisPavlov0/DenisPavlov0/blob/main/epU.gif"/>
 </div>
 
 ###
