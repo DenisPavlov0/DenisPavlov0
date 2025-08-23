@@ -22,29 +22,20 @@
 <h3 align="center">👨‍💻 Обо мне</h3>
 
 <p align="left">
-  Я <strong>Unity разработчик</strong>, имеющий опыт создания и публикации игр на таких платформах, как <strong>Google Play</strong>, <strong>Яндекс Игры</strong> и <strong>VK</strong>. 
-  В своей работе я активно применяю современные подходы и практики:
+Привет! Я Денис — Unity-разработчик.  
+Сейчас активно работаю над инди-рогаликом <strong>Crops Rebel</strong> 🌽⚔️  
+в роли единственного разработчика вместе с 
+<a href="https://t.me/indiegamenotes" target="_blank">@indiegamenotes</a>.  
 </p>
 
-<ul align="left">
-  <li>Принципы <strong>SOLID</strong> для построения гибкой и масштабируемой архитектуры.</li>
-  <li>Паттерны проектирования: <strong>Singleton</strong>, <strong>Observer</strong>, <strong>Factory</strong>.</li>
-  <li>Интеграция аналитических систем и монетизации.</li>
-  <li>Разработка эффективных игровых механик и пользовательских интерфейсов.</li>
-</ul>
-
 <p align="left">
-  Моя цель — создавать качественные игры, которые не только интересны, но и удобны для игроков.
+В работе иногда подключаю ИИ для мелких задач — это помогает сэкономить время.  
+Но серьёзные и объёмные вещи предпочитаю делать сам, полагаясь на опыт и навыки.  
 </p>
 
-###
-
-<h3 align="center">🎮 Текущий проект</h3>
-
 <p align="left">
-📌 Сейчас я работаю над <strong>инди-рогаликом в стиле Vampire Survivors</strong> (в другом сеттинге, с упором на тактику и уникальные механики).<br>
-🕹 Рабочее название: <strong>Crops Rebel</strong><br>
-🚧 Статус: активно в разработке (8+ месяцев).
+Главная цель простая: создавать игры, в которые хочется играть самому,  
+развиваться как разработчик и получать удовольствие от процесса. 🚀
 </p>
 
 ###
@@ -81,9 +72,19 @@
 <h3 align="center">🌍 About me (EN)</h3>
 
 <p align="left">
-I’m a <strong>Unity Game Developer</strong> with experience publishing games on <strong>Google Play, Yandex Games, and VK</strong>.<br>
-I focus on <strong>clean architecture (SOLID, design patterns)</strong>, <strong>analytics & monetization</strong>, and <strong>engaging gameplay mechanics</strong>.<br>
-My current goal is to create high-quality games that are both <strong>fun and player-friendly</strong>.
+Hi! I'm Denis — a <strong>Unity Game Developer</strong>.  
+Currently working solo on an indie roguelike <strong>Crops Rebel</strong> 🌽⚔️ together with 
+<a href="https://t.me/indiegamenotes" target="_blank">@indiegamenotes</a>.  
+</p>
+
+<p align="left">
+Sometimes I use AI for small tasks — it helps save time.  
+But when it comes to big or complex stuff, I rely on my own skills and knowledge.  
+</p>
+
+<p align="left">
+My goal is simple: build games I'd love to play myself,  
+grow as a developer, and enjoy the process. 🚀
 </p>
 
 ###
@@ -93,4 +94,3 @@ My current goal is to create high-quality games that are both <strong>fun and pl
 <p align="center">
   <img src="https://raw.githubusercontent.com/DenisPavlov0/DenisPavlov0/output/github-contribution-grid-snake.svg" />
 </p>
-
