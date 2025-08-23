@@ -91,5 +91,6 @@ My current goal is to create high-quality games that are both <strong>fun and pl
 <h3 align="center">🐍 Fun</h3>
 
 <p align="center">
-  <img src="https://github.com/DenisPavlov0/DenisPavlov0/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/DenisPavlov0/DenisPavlov0/output/github-contribution-grid-snake.svg" />
 </p>
+
