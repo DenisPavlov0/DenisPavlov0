@@ -56,18 +56,7 @@
 
 ###
 
-<h3 align="center">📊 Статистика</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DenisPavlov0&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisPavlov0&layout=compact&theme=radical" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DenisPavlov0&theme=radical" height="150"/>
-</p>
-
-###
 
 <h3 align="center">🌍 About me (EN)</h3>
 
